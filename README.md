@@ -25,7 +25,7 @@ Welcome to **Quiz Application** – a fun and educational app designed to help y
 ## Installation:
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/quiz-application.git
+   https://github.com/Prakash20162002/Optifyx_Technology_Task3_Quiz_Application.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
